@@ -680,4 +680,10 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	.footercontent{
 		height: 113px;
 	}
+	.category_item{
+		margin: 0 auto;
+	}
+	.block_cat{
+		margin: 0 auto;
+	}
 }
