@@ -689,4 +689,7 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	.widget ul{
 		padding-left: 5px;
 	}
+	.category-title{
+		font-size: 20px;
+	}
 }
