@@ -611,6 +611,7 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 		margin: 16px 13px 0 0;
     	width: 208px;
     	display: inline-block;
+    	    font-size: 10px;
 	}
 	.my-col-sm-4{
 		width: 100%;
@@ -672,5 +673,8 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	}
 	.category{
 		padding-left: 0;
+	}
+	.bottomlogo{
+		width: 88px;
 	}
 }
