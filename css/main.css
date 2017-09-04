@@ -641,6 +641,7 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	.aboutmaintext{
 		width: 100%;
 		opacity: 0.45;
+		    height: 200px;
 	}
 	.textaboutmain{
 		width: 100%;
