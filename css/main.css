@@ -605,11 +605,11 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	}
 	.leftfootercont{
 		display: inline-block;
-		margin: 56px 0px 0px 33px;
+		margin: 38px 0px 0px 3px;
 	}
 	.rightfootercont{
-		margin: 38px 13px 0 0;
-    	width: 234px;
+		margin: 16px 13px 0 0;
+    	width: 208px;
     	display: inline-block;
 	}
 	.my-col-sm-4{
@@ -669,5 +669,8 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	.opisvac{
 		margin-top: 17px;
     margin-left: 47px;
+	}
+	.category{
+		padding-left: 0;
 	}
 }
