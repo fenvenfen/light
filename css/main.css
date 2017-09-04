@@ -605,7 +605,7 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	}
 	.leftfootercont{
 		display: inline-block;
-		margin: 38px 0px 0px 3px;
+		margin: 17px  0px 0px 3px;
 	}
 	.rightfootercont{
 		margin: 16px 13px 0 0;
@@ -676,5 +676,8 @@ p.desc {width: 59%;margin: 56px auto;text-align: center;font-size: 17px;margin-b
 	}
 	.bottomlogo{
 		width: 88px;
+	}
+	.footercontent{
+		height: 113px;
 	}
 }
